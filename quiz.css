@@ -1,0 +1,24 @@
+#player1 {
+ background-color: rgb(244, 240, 255);
+ border-radius: 30px;
+ border:ridge;
+ padding: 10px;
+ margin:30px;
+}
+#player2 {
+    background-color: rgb(255, 240, 240);
+    border-radius: 30px;
+    border:ridge;
+    padding: 10px;
+ margin:30px;
+   }
+body{
+    background-color: aliceblue;
+}
+input{
+    width:300px;
+    text-align: center;
+}
+button{
+    text-align: center;
+}
